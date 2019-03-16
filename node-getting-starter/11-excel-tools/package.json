@@ -1,0 +1,16 @@
+{
+  "name": "11-excel-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.7.0",
+    "xls-parser": "^3.0.0"
+  }
+}

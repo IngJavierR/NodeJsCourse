@@ -1,0 +1,4 @@
+(version)
+major.minor.patch
+~1.2.3 => (most recent patch version, can install any 1.2 and greater or equal to 3)
+^1.2.3 => (most recent minor version)
